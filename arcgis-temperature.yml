@@ -1,0 +1,47 @@
+color_thresholds:
+  - value: 10
+    color: "#52658c"
+  - value: 15
+    color: "#475b83"
+  - value: 20
+    color: "#3e507b"
+  - value: 25
+    color: "#344671"
+  - value: 30
+    color: "#2c426b"
+  - value: 35
+    color: "#304e73"
+  - value: 40
+    color: "#355a7c"
+  - value: 45
+    color: "#396686"
+  - value: 50
+    color: "#527f8e"
+  - value: 55
+    color: "#6d8b88"
+  - value: 60
+    color: "#6d8b88"
+  - value: 65
+    color: "#8a9a85"
+  - value: 70
+    color: "#aaa882"
+  - value: 75
+    color: "#beac7c"
+  - value: 80
+    color: "#bb9e6a"
+  - value: 85
+    color: "#bb8c5c"
+  - value: 90
+    color: "#b37353"
+  - value: 95
+    color: "#a25250"
+  - value: 100
+    color: "#91334d"
+  - value: 105
+    color: "#7b293f"
+  - value: 110
+    color: "#641d32"
+  - value: 115
+    color: "#4e1325"
+  - value: 120
+    color: "#370716"
