@@ -1,13 +1,19 @@
 color_thresholds:
+  # Good
   - value: 0
     color: "#00e400"
+  # Moderate
   - value: 51
     color: "#ffff00"
+  # Unhealthy for Sensitive Groups
   - value: 101
     color: "#ff7e00"
+  # Unhealthy
   - value: 151
     color: "#ff0000"
+  # Very Unhealthy
   - value: 201
     color: "#8e4097"
+  # Hazardous
   - value: 301
     color: "#7e0024"
