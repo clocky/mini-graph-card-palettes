@@ -1,13 +1,13 @@
 color_thresholds:
   - value: 0
-    color: "rgb(0,228,0)"
+    color: "#00e400"
   - value: 51
-    color: "rgb(255,255,0)"
+    color: "#ffff00"
   - value: 101
-    color: "rgb(255,126,0)"
+    color: "#ff7e00"
   - value: 151
-    color: "rgb(255,0,0)"
+    color: "#ff0000"
   - value: 201
-    color: "rgb(143,64,151)"
+    color: "#8e4097"
   - value: 301
-    color: "rgb(126,0,35)"
+    color: "#7e0024"
