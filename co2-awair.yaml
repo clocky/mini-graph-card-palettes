@@ -1,0 +1,11 @@
+color_thresholds:
+  - value: 0
+    color: "#70CB5E"
+  - value: 600
+    color: "#F5D250"
+  - value: 1000
+    color: "#EEAD3C"
+  - value: 1500
+    color: "#E98C34"
+  - value: 2500
+    color: "#d64542"
