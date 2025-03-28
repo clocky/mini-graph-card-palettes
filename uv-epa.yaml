@@ -2,14 +2,11 @@
 color_thresholds:
   - value: 1
     color: "#2A9500"
-    # No protection needed. You can safely stay outside using minimal sun protection.
   - value: 3
     color: "#F7E400"
-    # Protection needed. Seek shade during late morning through mid-afternoon. 
   - value: 6
     color: "#F95A02"
   - value: 8
-    # Extra protection needed. Be careful outside, especially during late morning through mid-afternoon. 
     color: "#D90111"
   - value: 11
     color: "#6C49C9"
