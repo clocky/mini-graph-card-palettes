@@ -1,0 +1,12 @@
+# https://www.epa.gov/sunsafety/uv-index-scale-0
+color_thresholds:
+  - value: 1
+    color: "#2A9500"
+  - value: 3
+    color: "#F7E400"
+  - value: 6
+    color: "#F95A02"
+  - value: 8
+    color: "#D90111"
+  - value: 11
+    color: "#6C49C9"
